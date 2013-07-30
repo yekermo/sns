@@ -1,0 +1,81 @@
+#SNS data
+sns_search_Field: Keyword
+sns_active_T1_T2_T3_keywords: kids
+sns_no_result_keywords: xml
+sns_red_color1: 'rgba(0, 0, 0, 1)'
+sns_yellow_color1: 'transparent'
+sns_page_container: container
+sns_T3_NarrowBy_instrText: Select a filter using the arrow keys and press Enter
+sns_T1_Narrow by Option: Select a brand using the arrow keys and press Enter to apply.
+sns_pageTitle_search_results_page:  Find Merchandise - Search Results 
+sns_pageTitle_other_narrrow_by_Options_search_results_page: Find Merchandise - Other "Narrow by" Options
+sns_pageTitle_narrrow_by_brand_search_results_page: Find Merchandise - Narrow By Brand
+sns_pageTitle_narrrow_by_gender_search_results_page: Find Merchandise - Narrow By Gender
+sns_pageTitle_narrrow_by_color_search_results_page: Find Merchandise - Narrow By Color
+sns_pageTitle_narrrow_by_size_search_results_page: Find Merchandise - Narrow By Size
+sns_active_T1_keywords: keyboard
+sns_pagination_keywords: sofa
+sns_currrently_applied_text: (Currently Applied)
+sns_T1_filter_name: T1 Narrow by Brand
+sns_T2_filter_name: T2 Narrow by Product Type
+sns_T3_category_name: T3 Other "Narrow by" Options
+sns_T3_filter_name: T3 Narrow by Option
+sns_no_result_search_field: Press Esc or T5 to return to the search field.
+sns_no_result_text: No Results Returned
+sns_no_result_search_text: Press Esc or T5 to return to the search field.
+sns_search_keyword_not_foundtext: Your search for "xml" did not find any items.
+sns_width_scroll_bar: 544px
+sns_hight_scroll_bar: 350px
+sns_vertical_scroll_bar_status: visible
+sns_more_colors_keywords: bangles
+sns_red_color2: rgba(255, 0, 0, 1)
+sns_yellow_color2: rgba(255, 255, 204, 1)
+sns_suggested_or_text: "- or -"
+sns_select_one_from_suggested_search_text: Select one of the suggested search phrases below and press Enter
+sns_suggested_resutl_instructional_text: "Search again: Press Esc or T5 to return to the search field."
+sns_suggested_search_keywords: hotel collection sheets
+sns_suggested_search_phrases_text: "Suggested Search Phrases:"
+sns_pdp_size_title: Find Merchandise - Size/Color Options
+sns_pdp_collection_title: Find Merchandise - Collection List
+sns_pdp_all_buttons_active_webid: 698684
+sns_pdp_product_view_arrow_text: To see a product view, select it using the arrow keys.
+sns_pdp_all_buttons_active_webid_T2_active: 698684
+sns_pdp_all_buttons_active_webid_T2_inactive: 667621
+sns_pdp_collection_webid: 698684
+sns_pdp_size_for_collection_active_webid: 667977
+sns_pdp_all_collection_buttons_active_webid: 612408
+sns_pdp_T3_button_active_T6_inactive:
+sns_pdp_T3_button_active: 698684
+sns_pdp_size_color: 679173
+sns_pdp_quan_value: 2
+sns_pdp_order_instructional_webid: 542851
+sns_color: "Color :"
+sns_size: "Size :"
+sns_pdp_fulfillment_center_no: Fulfillment Center - No
+sns_pdp_fulfillment_center_yes: Fulfillment Center - Yes
+sns_pdp_unavailable_price: Price not available 
+sns_pdp_available_price: $
+sns_select_options: Select the option(s) using the arrow keys
+sns_input_qty: Input quantity
+sns_enter_check_availability: Press Enter or T7 Check Availability
+sns_select_options_availability_price: Select option(s) to see availability & price
+sns_fulfillment_center_yes: Fulfillment Center - Yes
+sns_fulfillment_center_no_and_near_stores: Fulfillment Center - No Press Enter or T7 Check Availability to see nearby stores
+sns_color_and_size: "Color: Size:"
+sns_no_size_color: 697086
+sns_pdp_no_size_color_text_left: Input quantity Press Enter or T7 Check Availability
+sns_pdp_collection_various_webid: 666956
+sns_pdp_collection_availability_webid: 755330
+sns_member_item_webid: 616825
+sns_pdp_instructional_text_master_collection: Use the arrow keys to navigate up and down, select an item and press Enter to see item details.
+sns_page_no: "Page 1 of"
+sns_coach_webid: 750869
+sns_chanel_webid: 756551
+sns_no_result_search_tipstext: "Search Tips: You can type any combination of details, such as: Brand (ex. Estee Lauder) Product Name (ex. Estee Lauder Pure Color) Product Type (ex. Estee Lauder Pure Color lipstick)"
+sns_active_T1_T2_T3_keyword: pant
+sns_T1_T2_T3_sub_filters_active_keyword: kids
+sns_pdp_column_item_desc_ellipsis: ...
+sns_inactive_T6_keywords: kids
+sns_activ_T1_T3_keywords: jeans
+sns_direction_up: up
+sns_direction_down: down
